@@ -1,0 +1,8 @@
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_02_Orientacao_a_objetos\Aula_07_Atividade_05\bin\Debug\Aula_07_Atividade_05.exe.config
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_02_Orientacao_a_objetos\Aula_07_Atividade_05\bin\Debug\Aula_07_Atividade_05.exe
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_02_Orientacao_a_objetos\Aula_07_Atividade_05\bin\Debug\Aula_07_Atividade_05.pdb
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_02_Orientacao_a_objetos\Aula_07_Atividade_05\obj\Debug\Aula_07_Atividade_05.Form1.resources
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_02_Orientacao_a_objetos\Aula_07_Atividade_05\obj\Debug\Aula_07_Atividade_05.Properties.Resources.resources
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_02_Orientacao_a_objetos\Aula_07_Atividade_05\obj\Debug\Aula_07_Atividade_05.csproj.GenerateResource.Cache
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_02_Orientacao_a_objetos\Aula_07_Atividade_05\obj\Debug\Aula_07_Atividade_05.exe
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_02_Orientacao_a_objetos\Aula_07_Atividade_05\obj\Debug\Aula_07_Atividade_05.pdb
